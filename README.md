@@ -8,6 +8,8 @@
 ### I now maintain a vencord fork which brings back the old NSFWGateBypass plugin
 ### You can find it [here](https://github.com/kauht/venkord)
 
+
+
 ## Installation
 ```js
   * Install BetterDiscord
